@@ -1,0 +1,82 @@
+[
+  {
+    "server_name": "web-prod-01",
+    "environment": "production",
+    "status": "healthy",
+    "cpu_percent": 15,
+    "memory_percent": 25,
+    "disk_percent": 61,
+    "uptime_days": 0,
+    "last_restart": "2026-07-24"
+  },
+  {
+    "server_name": "web-prod-02",
+    "environment": "production",
+    "status": "healthy",
+    "cpu_percent": 38,
+    "memory_percent": 49,
+    "disk_percent": 58,
+    "uptime_days": 34,
+    "last_restart": "2026-06-18"
+  },
+  {
+    "server_name": "db-prod-01",
+    "environment": "production",
+    "status": "healthy",
+    "cpu_percent": 15,
+    "memory_percent": 25,
+    "disk_percent": 76,
+    "uptime_days": 0,
+    "last_restart": "2026-07-24"
+  },
+  {
+    "server_name": "auth-prod-01",
+    "environment": "production",
+    "status": "healthy",
+    "cpu_percent": 15,
+    "memory_percent": 25,
+    "disk_percent": 82,
+    "uptime_days": 0,
+    "last_restart": "2026-07-24"
+  },
+  {
+    "server_name": "cache-prod-01",
+    "environment": "production",
+    "status": "healthy",
+    "cpu_percent": 21,
+    "memory_percent": 33,
+    "disk_percent": 40,
+    "uptime_days": 60,
+    "last_restart": "2026-05-23"
+  },
+  {
+    "server_name": "worker-staging-01",
+    "environment": "staging",
+    "status": "healthy",
+    "cpu_percent": 15,
+    "memory_percent": 28,
+    "disk_percent": 35,
+    "uptime_days": 5,
+    "last_restart": "2026-07-17"
+  },
+  {
+    "server_name": "batch-prod-01",
+    "environment": "production",
+    "status": "degraded",
+    "cpu_percent": 79,
+    "memory_percent": 84,
+    "disk_percent": 93,
+    "uptime_days": 21,
+    "last_restart": "2026-07-01"
+  },
+  {
+    "server_name": "web-staging-01",
+    "environment": "staging",
+    "status": "healthy",
+    "cpu_percent": 18,
+    "memory_percent": 30,
+    "disk_percent": 25,
+    "uptime_days": 8,
+    "last_restart": "2026-07-14"
+  }
+]

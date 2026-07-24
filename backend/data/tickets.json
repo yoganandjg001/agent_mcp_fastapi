@@ -1,0 +1,92 @@
+[
+  {
+    "ticket_id": "TCK-1001",
+    "employee": "Priya Sharma",
+    "subject": "Cannot access VPN from home network",
+    "status": "open",
+    "priority": "high",
+    "assigned_to": "IT-L2",
+    "created_date": "2026-07-15"
+  },
+  {
+    "ticket_id": "TCK-1002",
+    "employee": "Arjun Mehta",
+    "subject": "Laptop battery draining too fast",
+    "status": "in_progress",
+    "priority": "medium",
+    "assigned_to": "IT-L3",
+    "created_date": "2026-07-16"
+  },
+  {
+    "ticket_id": "TCK-1003",
+    "employee": "Fatima Khan",
+    "subject": "Email sync failing on mobile app",
+    "status": "resolved",
+    "priority": "low",
+    "assigned_to": "IT-L1",
+    "created_date": "2026-07-10"
+  },
+  {
+    "ticket_id": "TCK-1004",
+    "employee": "Rohit Verma",
+    "subject": "Production DB connection timeouts",
+    "status": "open",
+    "priority": "critical",
+    "assigned_to": "IT-L3",
+    "created_date": "2026-07-20"
+  },
+  {
+    "ticket_id": "TCK-1005",
+    "employee": "Sneha Iyer",
+    "subject": "Request for admin access to CI/CD pipeline",
+    "status": "open",
+    "priority": "medium",
+    "assigned_to": "IT-L2",
+    "created_date": "2026-07-19"
+  },
+  {
+    "ticket_id": "TCK-1006",
+    "employee": "Karan Malhotra",
+    "subject": "Printer offline on 3rd floor",
+    "status": "closed",
+    "priority": "low",
+    "assigned_to": "IT-L1",
+    "created_date": "2026-07-05"
+  },
+  {
+    "ticket_id": "TCK-1007",
+    "employee": "Neha Joshi",
+    "subject": "Slack notifications not working",
+    "status": "in_progress",
+    "priority": "medium",
+    "assigned_to": "IT-L1",
+    "created_date": "2026-07-18"
+  },
+  {
+    "ticket_id": "TCK-1008",
+    "employee": "Vikram Singh",
+    "subject": "Server disk space critically low",
+    "status": "open",
+    "priority": "critical",
+    "assigned_to": "IT-L3",
+    "created_date": "2026-07-21"
+  },
+  {
+    "ticket_id": "TCK-1009",
+    "employee": "Ananya Reddy",
+    "subject": "Password reset needed for internal portal",
+    "status": "resolved",
+    "priority": "low",
+    "assigned_to": "IT-L1",
+    "created_date": "2026-07-12"
+  },
+  {
+    "ticket_id": "TCK-1010",
+    "employee": "Aditya Kapoor",
+    "subject": "New employee onboarding: hardware setup",
+    "status": "open",
+    "priority": "medium",
+    "assigned_to": "IT-L1",
+    "created_date": "2026-07-20"
+  }
+]

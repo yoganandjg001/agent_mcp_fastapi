@@ -1,0 +1,74 @@
+[
+  {
+    "order_id": "ORD-5001",
+    "customer": "Rohit Verma",
+    "product": "Wireless Mouse",
+    "order_amount": 25.99,
+    "order_date": "2026-07-15",
+    "return_window_days": 30,
+    "refund_eligible": true
+  },
+  {
+    "order_id": "ORD-5002",
+    "customer": "Ananya Reddy",
+    "product": "Mechanical Keyboard",
+    "order_amount": 89.5,
+    "order_date": "2026-07-05",
+    "return_window_days": 15,
+    "refund_eligible": false
+  },
+  {
+    "order_id": "ORD-5003",
+    "customer": "Karan Malhotra",
+    "product": "27-inch Monitor",
+    "order_amount": 249.0,
+    "order_date": "2026-07-01",
+    "return_window_days": 30,
+    "refund_eligible": true
+  },
+  {
+    "order_id": "ORD-5004",
+    "customer": "Sneha Iyer",
+    "product": "Laptop Docking Station",
+    "order_amount": 132.75,
+    "order_date": "2026-06-20",
+    "return_window_days": 30,
+    "refund_eligible": false
+  },
+  {
+    "order_id": "ORD-5005",
+    "customer": "Aditya Kapoor",
+    "product": "USB-C Hub",
+    "order_amount": 45.0,
+    "order_date": "2026-07-18",
+    "return_window_days": 30,
+    "refund_eligible": true
+  },
+  {
+    "order_id": "ORD-5006",
+    "customer": "Neha Joshi",
+    "product": "Noise-Cancelling Headphones",
+    "order_amount": 199.99,
+    "order_date": "2026-07-08",
+    "return_window_days": 30,
+    "refund_eligible": true
+  },
+  {
+    "order_id": "ORD-5007",
+    "customer": "Vikram Singh",
+    "product": "Standing Desk",
+    "order_amount": 410.0,
+    "order_date": "2026-06-15",
+    "return_window_days": 30,
+    "refund_eligible": false
+  },
+  {
+    "order_id": "ORD-5008",
+    "customer": "Fatima Khan",
+    "product": "Webcam 1080p",
+    "order_amount": 59.99,
+    "order_date": "2026-07-19",
+    "return_window_days": 30,
+    "refund_eligible": true
+  }
+]

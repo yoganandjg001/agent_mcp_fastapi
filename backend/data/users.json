@@ -1,0 +1,32 @@
+[
+  {
+    "username": "alice",
+    "password": "alice@123",
+    "full_name": "Alice D'Souza",
+    "role": "user"
+  },
+  {
+    "username": "bharat",
+    "password": "bharat@123",
+    "full_name": "Bharat Nair",
+    "role": "user"
+  },
+  {
+    "username": "chitra_lead",
+    "password": "chitra@123",
+    "full_name": "Chitra Rao",
+    "role": "approver"
+  },
+  {
+    "username": "dev_admin",
+    "password": "devadmin@123",
+    "full_name": "Devansh Gupta",
+    "role": "approver"
+  },
+  {
+    "username": "esha",
+    "password": "esha@123",
+    "full_name": "Esha Bhatt",
+    "role": "user"
+  }
+]
